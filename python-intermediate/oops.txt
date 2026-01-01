@@ -1,0 +1,37 @@
+oops is a part of procedural programming.If we have to reuse a certain task then we make a function for it...so oops brings reusability in our code
+
+we need reusability-->go for functions
+
+oops consists of classes and objects and it is optional to use them....but there a definitely a lot of problems that can be easily and quickly solved using classes and objects
+
+
+oops is basically mappin real word problems with code
+eg mouse is an onject, pen is and object
+IRL everything around us is an object and when we want to simulate these things in a code format oops comes into play
+
+
+json response is a great example of object orientation
+student{
+    name,
+    class,
+    roll no...etcetcetc
+}
+
+
+
+
+CLASS- a class is a blueprint of an object
+jaise factory pehle se define krdeti hai ki uske products kaise dikhenge ussi tarah se a class defines how its objects are gonna be
+
+OBJECT-an object is an instance of a class
+wo blueprint ke according jo cheez humne design ki hai that is object
+
+eg 
+
+class student:
+    name,score,cgpa
+
+Example of this is given in classes&ibjects.py file
+
+
+
