@@ -1,0 +1,28 @@
+#enacpsulation
+process of hiding data and methods in a single unit is called enacpsulation
+encaplsulation can also be used to implement data hiding since some details may be chosen to be kept private and not top be shown to anyone
+
+
+public, private and protected are three types of access specifiers that are used to implement data hiding
+
+
+
+#inheritance is a principle by which a base class derivws the properties of a super or parent class
+there are multiple types of inheritance
+super class/parent class ki properties ko uska base/child class use kar skta hai
+this is called inheritance
+
+        parent class
+            |
+            |
+            |(propeties/functions/data)
+            |
+            V
+        child/base class
+
+Types of inheritance
+single level - ek parent ek child
+
+multi level- ek parent ka child aur uska ek child
+
+multiple - 
